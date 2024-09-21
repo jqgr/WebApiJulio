@@ -3,7 +3,7 @@
 ##DML
 Se realizaron los procedimientos para realizar las consultas:
 
-- Sales Date Prediction (Tuve inconvenientes en el cálculo de la prediccion de la fecha per se soluciono validando el valor nulo de ultima fecha siguiente)  
+- Sales Date Prediction (Tuve inconvenientes en el cálculo de la prediccion de la fecha pero se soluciono validando el valor nulo de ultima fecha siguiente)  
 - Get Client Order  
 - Get employees  
 - Get Shippers  
