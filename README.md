@@ -1,6 +1,6 @@
 # Prueba de software
 
-##DML
+## DML
 Se realizaron los procedimientos para realizar las consultas:
 
 - Sales Date Prediction (Tuve inconvenientes en el cálculo de la prediccion de la fecha pero se soluciono validando el valor nulo de ultima fecha siguiente)  
@@ -10,7 +10,7 @@ Se realizaron los procedimientos para realizar las consultas:
 - Get Products  
 - Add New Order  
 
-##Web Api
+## Web Api
 Se realizo una API Web API de ASP.NET Core 8 con las interfases y metodos para consumir las consultas:
 
 - Sales Date Prediction  
